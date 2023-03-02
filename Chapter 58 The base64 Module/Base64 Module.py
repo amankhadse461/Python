@@ -1,4 +1,4 @@
-import base64
+from collections import base64
 a  ="amankhadse"
 b  = a.encode("UTF-8")
 print(b)
